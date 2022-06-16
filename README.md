@@ -8,8 +8,8 @@ install pytorch
 
 ```
 open terminal
-$ Conda activate pytorch
-$ (pytorch) python app.py
+Conda activate pytorch
+(pytorch) python app.py
 ```
 run live server in vscode
 
